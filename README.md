@@ -2,6 +2,15 @@
 <h3 align="center">Estudiante de Lic. en Sistemas | UNLP</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Sistemas;Aprendiendo+Python;Backend+en+proceso&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
@@ -29,3 +38,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiangeletti\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiangeletti\&layout=compact\&theme=tokyonight)
+
+
