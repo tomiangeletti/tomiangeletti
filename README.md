@@ -27,6 +27,13 @@
 ![Pascal](https://img.shields.io/badge/Pascal-00599C?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
+<p align="center">
+  <a href="mailto:tomilobolaplata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tomilobolaplata%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+
 ---
 
 ### 📊 Stats
