@@ -20,12 +20,13 @@
 
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-00599C?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <p align="center">
   <a href="mailto:tomilobolaplata@gmail.com">
