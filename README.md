@@ -16,7 +16,7 @@
 
 * 🎓 Estudio Licenciatura en Sistemas
 * 💻 Me interesa la automatización, ciberseguridad y desarrollo
-* 🐍 Actualmente aprendiendo Python
+* 🐍 Actualmente aprendiendo FastAPI y React
 
 ---
 
